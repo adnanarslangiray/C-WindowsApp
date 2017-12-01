@@ -1,0 +1,10 @@
+c:\users\ado_net\Source\Repos\topluProje\topluProje\bin\Debug\topluProje.exe.config
+c:\users\ado_net\Source\Repos\topluProje\topluProje\bin\Debug\topluProje.exe
+c:\users\ado_net\Source\Repos\topluProje\topluProje\bin\Debug\topluProje.pdb
+c:\users\ado_net\Source\Repos\topluProje\topluProje\obj\Debug\topluProje.csprojResolveAssemblyReference.cache
+c:\users\ado_net\Source\Repos\topluProje\topluProje\obj\Debug\topluProje.Form1.resources
+c:\users\ado_net\Source\Repos\topluProje\topluProje\obj\Debug\topluProje.Properties.Resources.resources
+c:\users\ado_net\Source\Repos\topluProje\topluProje\obj\Debug\topluProje.csproj.GenerateResource.Cache
+c:\users\ado_net\Source\Repos\topluProje\topluProje\obj\Debug\topluProje.csproj.CoreCompileInputs.cache
+c:\users\ado_net\Source\Repos\topluProje\topluProje\obj\Debug\topluProje.exe
+c:\users\ado_net\Source\Repos\topluProje\topluProje\obj\Debug\topluProje.pdb
